@@ -17,7 +17,7 @@ int main()
 		        break;
 		case 4: printf("\nFood Item: Pasta\nPrice: 179\n");
 		        break;
-	    case 5: printf("\nFood Item: Pizza\nPrice: 239\n");
+	        case 5: printf("\nFood Item: Pizza\nPrice: 239\n");
 		        break;
 		default: printf("\nInvalid input.\n");
 		         break;
