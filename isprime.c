@@ -31,4 +31,5 @@ int main()
 	{
 		printf("Is is not a Prime number.\n");
 	}
+	return 0;
 }
