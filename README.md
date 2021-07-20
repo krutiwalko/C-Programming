@@ -7,3 +7,4 @@
 5) Sum of Digits(Using recursion)
 6) Check Prime Number
 7) Find LCM of Two given Numbers
+8) 3x3 matrix using pointer
