@@ -8,3 +8,4 @@
 6) Check Prime Number
 7) Find LCM of Two given Numbers
 8) 3x3 matrix using pointer
+9) Employee Details
